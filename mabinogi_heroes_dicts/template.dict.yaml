@@ -1,0 +1,9 @@
+# 自定义词典
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 模板
+---
+name: template
+version: "2024-04-12"
+sort: by_weight
+...

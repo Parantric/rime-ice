@@ -12,8 +12,17 @@ import_tables:
   - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
   - cn_dicts/others   # 一些杂项
 
+
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   # - cn_dicts/mydict
+  # 洛奇英雄传 相关词库
+  - mabinogi_heroes_dicts/changyong  # 常用词汇
+  # 
+  # 
+  # 个人添加的来自﹝搜狗输入法官网的词库&自己添加的﹞
+  #
+  # 一人之下
+  - extra_dicts/yirenzhixia
 ...
 
 # 按需启用：

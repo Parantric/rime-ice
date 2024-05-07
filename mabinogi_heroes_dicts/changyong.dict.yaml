@@ -1,0 +1,220 @@
+# 自定义词典
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 常用的名称
+---
+name: changyong
+version: "2024-04-12"
+sort: by_weight
+...
+# 副本名称
+阿尤伦深处	a you lun shen chu	1
+艾利斯的信念	ai li si de xin nian	1
+败走废墟	bai zou fei xu	1
+暴君的挑衅	bao jun de tiao xin	1
+被践踏的草原	bei jian ta de cao yuan	1
+冰辉石	bing hui shi	1
+冰山谷	bing shan gu	1
+布林的研究	bu lin de yan jiu	1
+沉睡的传说	chen shui de chuan shuo	1
+迟来的后悔	chi lai de hou hui	1
+赤怒酋长	chi nu qiu zhang	1
+传闻的来源	chuan wen de lai yuan	1
+村口边悲泣的花	cun kou bian bei qi de hua	1
+德芸的委托	de yun de wei tuo	1
+地精族长	di jing zu zhang	1
+调查冰山谷深处	diao cha bing shan gu shen chu	1
+动摇的事实	dong yao de shi shi	1
+废墟猎人	fei xu lie ren	1
+废墟上的噩梦	fei xu shang de e meng	1
+废墟圣域	fei xu sheng yu	1
+废墟之风	fei xu zhi feng	1
+复仇	fu chou	1
+哥利亚	ge li ya	1
+痕迹	hen ji	1
+红魔射手	hong mo she shou	1
+极霜暴君	ji shuang bao jun	1
+金色毛皮	jin se mao pi	1
+绝路	jue lu	1
+决战	jue zhan	1
+魔族的标志	mo zu de biao zhi	1
+魔族令书	mo zu ling shu	1
+南侧岩壁	nan ce yan bi	1
+怒霜暴君	nu shuang bao jun	1
+平原狼人	ping yuan lang ren	1
+平原之约	ping yuan zhi yue	1
+燃烧的村子	ran shao de cun zi	1
+燃烧的南瓜田	ran shao de nan gua tian	1
+骚乱制造者	sao luan zhi zao zhe	1
+神秘之地	shen mi zhi di	1
+是敌是友	shi di shi you	1
+首领的逃亡	shou ling de tao wang	1
+撕裂月牙的剑刃	si lie yue ya de jian ren	1
+通往平原的入口	tong wang ping yuan de ru kou	1
+西侧冰崖	xi ce bing ya	1
+虚无亲王	xu wu qin wang	1
+异界的存在	yi jie de cun zai	1
+一门之隔的地狱	yi men zhi ge de di yu	1
+隐士	yin shi	1
+英雄的遗物	ying xiong de yi wu	1
+再寻弹弓	zai xun dan gong	1
+蜘蛛五兄弟	zhi zhu wu xiong di	1
+终极弹弓	zhong ji dan gong	1
+# 迷雾峰
+崩塌的矿山﹝挖掘专家基尔﹞	beng ta de kuang shan	1
+崩塌的矿山	beng ta de kuang shan	2
+# 艾登
+被切断的给养钱﹝军需官叶尔加修﹞	bei qie duan de ji yang qian	1
+被切断的给养钱		bei qie duan de ji yang qian	1
+# 凯瑟纳山
+雾月之下﹝希埃特﹞	wu yue zhi xia	1
+雾月之下	wu yue zhi xia	2
+# 塔拉塔王城
+王城地牢﹝塔拉坦﹞	wang cheng di lao	1
+王城地牢	wang cheng di lao	2
+王城黄玉厅﹝罗梅尔﹞	wang cheng huang yu ting	1
+王城黄玉厅	wang cheng huang yu ting	2
+# GSD
+邪念之海	xie nian zhi hai	1
+屠戮之月	tu lu zhi yue	1
+砧上之剑	zhen shang zhi jian	1
+生命之树	sheng ming zhi shu	1
+
+# NPC
+# 库汉
+# 佣兵事务所
+艾旦	ai dan	1
+盖联	gai lian	1
+凯雅拉	kai ya la	1
+马利	ma li	1
+艾利斯	ai li si	1
+卡丹	ka dan	1
+提尔	ti er	1
+# 罗切斯特
+# 
+# 新月岛
+米勒德	mi le de	1
+
+# 地点名称
+库汉	ku han	1
+佣兵事务所	yong bing shi wu suo	1
+罗切斯特	luo qie si te	1
+船之坟墓	chuan zhi fen mu	1
+迷雾峰	mi wu feng	1
+塔拉塔王城	ta la ta wang cheng	1
+新月岛	xin yue dao	1
+凯瑟纳山	kai se na shan	1
+艾登	ai deng	1
+哈伊德	ha yi de	1
+
+# BOSS
+# 哈伊德
+普杰克鲁斯	pu jie ke lu si	1
+普杰克鲁斯﹝冰龙﹞	pu jie ke lu si	1
+﹝冰龙﹞普杰克鲁斯	bing long	1
+# 船之坟墓
+侯爵马尔基奥	hou jue ma er ji ao	1
+受诅咒的船长	shou zu zhou de chuan zhang	1
+# 迷雾峰
+挖掘专家基尔﹝崩塌的矿山﹞	wa jue zhuan jia ji er	1
+挖掘专家基尔	wa jue zhuan jia ji er	2
+# 艾登
+军需官叶尔加修﹝被切断的给养钱﹞	jun xu guan ye er jia xiu	1
+叶尔加修﹝被切断的给养钱﹞	ye er jia xiu	1
+叶尔加修	ye er jia xiu	2
+# 凯瑟纳山
+希埃特	xi ai te	1
+# GSD
+内文	nei wen	1
+巴罗尔	ba luo er	1
+布丽吉特	bu li ji te	1
+劳拉	lao la	1
+
+
+# 个人 ID及其公会
+一劍迷離	yi jian mi li	1
+劍舞芳華	jian wu fang hua	1
+飛鳥投林	fei niao tou lin	1
+靈夢飛尋	ling meng fei xun	1
+龍雩集舞	long yu ji wu	1
+希尔梅莉娅	xi er mei li ya	1
+缥缈浮世	piao miao fu shi	1
+言僷之庭	yan ye zhi ting	1
+音吹寺汀	yin chui si ting	1
+彩虹灬白昼	cai hong bai zhou	1
+
+# 角色名称
+利斯塔	li si ta	1
+Lethita	li si ta	2
+菲欧娜	fei ou na	1
+Fiona	fei ou na	2
+拉缇雅	la ti ya	1
+Latiya	la ti ya	2
+艾莉莎	ai li sha	1
+Arisha	ai li sha	2
+黛莉娅	dai li ya	1
+Delia	dai li ya	2
+芈璃	mi li	11
+Miri	mi li	22
+缪尔	miu er	1
+Miul	miu er	2
+蕾希	lei xi	1
+Lethor	lei xi	2
+丹雅	dan ya	1
+Danah	dan ya	2
+莱缇	lai ti	1
+Letty	lai ti	2
+贝拉	bei la	1
+Bel	bei la	2
+琳	lin	1
+Lynn	lin	2
+维拉	wei la	1
+Vella	wei la	2
+凯伊	kai yi	1
+Kay	kai yi	2
+卡鲁	ka lu	1
+Kalok	ka lu	2
+伊菲	yi fei	1
+Evy	yi fei	2
+铠尔	kai er	1
+Kael	kai er	2
+泰莎	tai sha	1
+Tessa	tai sha	2
+晨	chen	1
+Czern	chen	2
+埃切尔	ai qie er	1
+Achel	ai qie er	2
+垨	shou	1
+Sou	shou	2
+
+# 物品
+罗米纳尔	luo mi na er	1
+
+# 武器&盾牌
+魔刃	mo ren	1
+魔鞭	mo bian	1
+战镰	zhan lian	1
+战柱	zhan zhu	1
+拳炮	quan pao	1
+弓	gong	1
+十字枪	shi zi qiang	2
+十字q	shi zi qiang	1
+链刃	lian ren	1
+枪剑	qiang jian	2
+q剑	qiang jian	1
+枪戟	qiang ji	2
+q戟	qiang ji	1
+花伞	hua san	1
+龙刃	long ren	1
+拳刃	quan ren	1
+魔能左轮	mo neng zuo lun	1
+魔纹	mo wen	1
+剑矛	jian mao	1
+刺剑	ci jian	1
+噬魂刀	shi hun dao	1
+星穹之珠	xing qiong zhi zhu	1
+战矛	zhan mao	1
+战盾	zhan dun	1
+云刃	yun ren	1
+赫里盟	he li meng	1
+

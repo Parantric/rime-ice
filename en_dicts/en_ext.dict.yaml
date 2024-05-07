@@ -382,7 +382,7 @@ Hybrid drive	HHD
 Hybrid drive	Hybriddrive
 SSD	SSD
 Solid-state drive	SSD
-Solid-state drive	Solid-statedrive
+Solid-state drive	Solidstatedrive
 CPU	CPU
 Central Processing Unit	CPU
 Central Processing Unit	CentralProcessingUnit
@@ -397,7 +397,7 @@ eGPU	eGPU
 One Piece	OnePiece
 CCTV	CCTV
 Closed-Circuit Television	CCTV
-Closed-Circuit Television	Closed-CircuitTelevision
+Closed-Circuit Television	ClosedCircuitTelevision
 China Central Television	CCTV
 ColorOS	ColorOS
 China Central Television	ChinaCentralTelevision
@@ -1198,13 +1198,14 @@ Virtual private server	VPS
 Virtual private server	Virtualprivateserver
 BIOS	BIOS
 Basic Input/Output System	BIOS
-Basic Input/Output System	BasicInput/OutputSystem
+Basic Input/Output System	BasicInputOutputSystem
 unbelievable	unbelievable
 goroutine	goroutine
 Celsius	Celsius
 Fahrenheit	Fahrenheit
 nil	nil
 Mojito	Mojito
+weasel	weasel
 Niconico	Niconico
 TickTick	TickTick
 CHDBits	CHDBits
@@ -1282,7 +1283,7 @@ HarmonyOS	HarmonyOS
 incase	incase
 NPC	NPC
 Non-Player Character	NPC
-Non-Player Character	Non-PlayerCharacter
+Non-Player Character	NonPlayerCharacter
 MVP	MVP
 Quantumult X	QuantumultX
 Confluence	Confluence
@@ -1345,10 +1346,10 @@ Meta	Meta
 PictureView	PictureView
 RAM	RAM
 Random-access memory	RAM
-Random-access memory	Random-AccessMemory
+Random-access memory	RandomAccessMemory
 ROM	ROM
 Read-only memory	ROM
-Read-only memory	Read-OnlyMemory
+Read-only memory	ReadOnlyMemory
 AV	AV
 Adult Video	AV
 Adult Video	AdultVideo
@@ -1488,15 +1489,15 @@ whack	whack
 encore	encore
 suffix	suffix
 prefix	prefix
-Type-A	Type-A
-Type-B	Type-B
-Type-C	Type-C
-USB Type-A	USBType-A
-USB Type-B	USBType-B
-USB Type-C	USBType-C
-USB-A	USB-A
-USB-B	USB-B
-USB-C	USB-C
+Type-A	TypeA
+Type-B	TypeB
+Type-C	TypeC
+USB Type-A	USBTypeA
+USB Type-B	USBTypeB
+USB Type-C	USBTypeC
+USB-A	USBA
+USB-B	USBB
+USB-C	USBC
 vex	vex
 tempest	tempest
 J.R.R. Tolkien	J.R.R.Tolkien
@@ -1798,7 +1799,7 @@ DoH	DoH
 DNS over HTTPS	DoH
 DNS over HTTPS/3	DoH
 DNS over HTTPS	DNSoverHTTPS
-DNS over HTTPS/3	DNSoverHTTPS/3
+DNS over HTTPS/3	DNSoverHTTPS
 DoQ	DoQ
 DNS over QUIC	DoQ
 DNS over QUIC	DNSoverQUIC
@@ -1809,7 +1810,7 @@ Party Animals	PartyAnimals
 clipboard	clipboard
 ABS	ABS
 Anti-lock Braking System	ABS
-Anti-lock Braking System	Anti-lockBrakingSystem
+Anti-lock Braking System	AntilockBrakingSystem
 ADHD	ADHD
 attention deficit hyperactivity disorder	ADHD
 attention deficit hyperactivity disorder	attentiondeficithyperactivitydisorder
@@ -1829,7 +1830,7 @@ Arctic Warfare Police	AWP
 Arctic Warfare Police	ArcticWarfarePolice
 CLI	CLI
 Command-Line Interface	CLI
-Command-Line Interface	Command-LineInterface
+Command-Line Interface	CommandLineInterface
 Dnsmasq	Dnsmasq
 clique	clique
 candid	candid
@@ -1851,10 +1852,10 @@ Universal Plug and Play	UPnP
 Universal Plug and Play	UniversalPlugandPlay
 DoS	DoS
 denial-of-service attack	DoS
-denial-of-service attack	denial-of-serviceattack
+denial-of-service attack	denialofserviceattack
 DDoS	DDoS
 distributed denial-of-service attack	DDoS
-distributed denial-of-service attack	distributeddenial-of-serviceattack
+distributed denial-of-service attack	distributeddenialofserviceattack
 lullaby	lullaby
 LibreWolf	LibreWolf
 miscarry	miscarry
@@ -2401,5 +2402,3 @@ Terraform	Terraform
 systemd	systemd
 FPGA	FPGA
 field-programmable gate array	FPGA
-Samsung	Samsung
-Samsung Galaxy	SamsungGalaxy

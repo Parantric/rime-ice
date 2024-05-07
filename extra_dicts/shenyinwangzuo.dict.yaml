@@ -1,0 +1,30 @@
+# 自定义词典
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 权重数字越大，表示优先级越高，排名越靠前。
+# 模板
+---
+name: shenyinwangzuo
+version: "2024-04-16"
+sort: by_weight
+...
+
+# 人物
+圣采儿	sheng cai er	1
+林鑫	lin xin	1
+枫秀	feng xiu	1
+九头奇美拉	jiu tou qi mei la	1
+天谴之神	tian qian zhi shen	1
+
+# 神印王座
+永恒与创造之神印王座	yong heng yu chuang zao zhi shen yin wang zuo	1
+恐惧与悲伤之神印王座	kong ju yu bei shang zhi shen yin wang zuo	1
+末日与杀戮之神印王座	mo ri yu sha lu zhi shen yin wang zuo	1
+末日与杀戮之神印王座	mo ri yu sha lu zhi shen yin wang zuo	1
+守护与怜悯之神印王座	shou hu yu lian min zhi shen yin wang zuo	1
+智慧与精神之神印王座	zhi hui yu jing shen zhi shen yin wang zuo	1
+秩序与法则之神印王座	zhi xu yu fa ze zhi shen yin wang zuo	1
+永恒与创造之神印王座、恐惧与悲伤之神印王座、末日与杀戮之神印王座、守护与怜悯之神印王座、智慧与精神之神印王座、秩序与法则之神印王座	shen yin wang zuo	1
+
+# 招式
+蓝雨·光之芙蓉	lan yu guang zhi fu rong	1
