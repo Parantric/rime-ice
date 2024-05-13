@@ -15,14 +15,25 @@ import_tables:
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   # - cn_dicts/mydict
+  # 
+  # 搜狗词库
+  # - extra_dicts/sogou_pinyin
+  # 测试用
+  # - extra_dicts/sogou_pinyin_test
+  # 
+  # 词库来源：「https://github.com/expoli/rime-config/blob/master/luna_pinyin.sogou.dict.yaml」
+  - extra_dicts/daike_pinyin.sogou
+  # 
   # 洛奇英雄传 相关词库
   - mabinogi_heroes_dicts/changyong  # 常用词汇
-  # 
-  # 
-  # 个人添加的来自﹝搜狗输入法官网的词库&自己添加的﹞
+  #
   #
   # 一人之下
   - extra_dicts/yirenzhixia
+  - extra_dicts/shenyinwangzuo
+
+  # 个人输入习惯
+  - extra_dicts/daike
 ...
 
 # 按需启用：
