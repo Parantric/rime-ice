@@ -6,6 +6,8 @@
 
 [👍作者 `GitHub` 仓库地址](https://github.com/iDvel/rime-ice)
 
+[📄 小狼毫 `GitHub`仓库](https://github.com/rime/weasel)
+
 [📄`Rime` 定制:官方文档](https://github.com/rime/home/wiki/CustomizationGuide#%E5%AE%9A%E8%A3%BD%E6%8C%87%E5%8D%97)
 
 [📑`Rime` 配置说明 - 雾凇输入法文档](https://dvel.me/posts/rime-ice/)
