@@ -6,7 +6,7 @@ name: rime_ice
 version: "2023-11-13"
 import_tables:
   - cn_dicts/8105     # 字表
-  # - cn_dicts/41448  # 大字表（按需启用）
+  - cn_dicts/41448  # 大字表（按需启用）
   - cn_dicts/base     # 基础词库
   - cn_dicts/ext      # 扩展词库
   - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
@@ -16,13 +16,19 @@ import_tables:
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   # - cn_dicts/mydict
   # 
-  # 搜狗词库
+  # 搜狗词库（部署失败）
   # - extra_dicts/sogou_pinyin
   # 测试用
   # - extra_dicts/sogou_pinyin_test
   # 
   # 词库来源：「https://github.com/expoli/rime-config/blob/master/luna_pinyin.sogou.dict.yaml」
-  - extra_dicts/daike_pinyin.sogou
+  # - extra_dicts/daike_pinyin.sogou
+  #
+  # 搜狗词库文学词库（部署失败）
+  # - extra_dicts/luna_pinyin.sogou.literature
+  # 
+  # 搜狗词库 【宋词精选】
+  - extra_dicts/sougou.songcijingxuan
   # 
   # 洛奇英雄传 相关词库
   - mabinogi_heroes_dicts/changyong  # 常用词汇
