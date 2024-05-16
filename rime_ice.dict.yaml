@@ -29,6 +29,9 @@ import_tables:
   # 
   # 搜狗词库 【宋词精选】
   - extra_dicts/sougou.songcijingxuan
+  #
+  # 搜狗词库 【完美世界】 辰东 小说
+  - extra_dicts/sougou.pinyin.wanmeishijie
   # 
   # 洛奇英雄传 相关词库
   - mabinogi_heroes_dicts/changyong  # 常用词汇

@@ -14,7 +14,11 @@
 # 转化应当大写的单词
 ---
 name: en
+<<<<<<< HEAD
 version: "2024-04-19"
+=======
+version: "2024-05-16"
+>>>>>>> d934ea14097f14d88e17690152f5d9c286b68747
 sort: by_weight
 ...
 # +_+
@@ -3372,6 +3376,7 @@ cinemas	cinemas
 cingular	cingular
 cinnamon	cinnamon
 CIO	CIO
+cipher	cipher
 # cir	cir
 circa	circa
 circle	circle
@@ -9411,6 +9416,7 @@ impatient	impatient
 impedance	impedance
 imperative	imperative
 imperial	imperial
+imperium	imperium
 impetus	impetus
 implant	implant
 implants	implants
