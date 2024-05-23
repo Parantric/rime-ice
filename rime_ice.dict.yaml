@@ -26,13 +26,19 @@ import_tables:
   #
   # 搜狗词库文学词库（部署失败）
   # - extra_dicts/luna_pinyin.sogou.literature
-  # 
+  #
   # 搜狗词库 【宋词精选】
   - extra_dicts/sougou.songcijingxuan
   #
   # 搜狗词库 【完美世界】 辰东 小说
   - extra_dicts/sougou.pinyin.wanmeishijie
-  # 
+  #
+  # 搜狗词库 《凡人修仙传》词库
+  - extra_dicts/sougou.pinyin.fanrenxiuxianzhuan
+  #
+  # 搜狗词库 凡人修仙传人界篇
+  - extra_dicts/sougou.pinyin.fanrenxiuxianzhuanrenjiepian
+  #
   # 洛奇英雄传 相关词库
   - mabinogi_heroes_dicts/changyong  # 常用词汇
   #
