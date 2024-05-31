@@ -16,16 +16,8 @@ import_tables:
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   # - cn_dicts/mydict
   # 
-  # 搜狗词库（部署失败）
-  # - extra_dicts/sogou_pinyin
-  # 测试用
-  # - extra_dicts/sogou_pinyin_test
-  # 
-  # 词库来源：「https://github.com/expoli/rime-config/blob/master/luna_pinyin.sogou.dict.yaml」
-  # - extra_dicts/daike_pinyin.sogou
-  #
-  # 搜狗词库文学词库（部署失败）
-  # - extra_dicts/luna_pinyin.sogou.literature
+  # 搜狗词库（基本词库）
+  - extra_dicts/sougou.pinyin.standard
   #
   # 搜狗词库 【宋词精选】
   - extra_dicts/sougou.songcijingxuan
@@ -38,6 +30,18 @@ import_tables:
   #
   # 搜狗词库 凡人修仙传人界篇
   - extra_dicts/sougou.pinyin.fanrenxiuxianzhuanrenjiepian
+  # 
+  # 搜狗词库 网络词汇
+  - extra_dicts/sougou.pinyin.network
+  #
+  # 个人自定义词库（搜狗词库没有）
+  #
+  # 我师兄实在太稳健了：言归正传 著
+  - extra_dicts/custom.pinyin.woshixiongshizaitaiwenjianle
+  #
+  # 元尊 天蚕土豆 著
+  - extra_dicts/custom.pinyin.yuanzun
+  #
   #
   # 洛奇英雄传 相关词库
   - mabinogi_heroes_dicts/changyong  # 常用词汇

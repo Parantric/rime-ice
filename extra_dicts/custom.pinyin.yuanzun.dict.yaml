@@ -1,0 +1,16 @@
+# 元尊
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 权重数字越大，表示优先级越高，排名越靠前。
+# 模板
+---
+name: custom.pinyin.yuanzun
+version: "2024-05-29"
+sort: by_weight
+...
+
+周元	zhou yuan	1
+蟒雀吞龙	mang que tun long	1
+祖地	zu di	1
+妖妖	yao yao	1
+苍渊	cang yuan	1

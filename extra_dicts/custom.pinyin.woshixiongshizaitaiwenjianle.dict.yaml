@@ -1,0 +1,22 @@
+# 我师兄实在太稳健了 自定义词库
+# encoding: utf-8
+# 字条格式：词汇<tab>ci<空格>hui<tab>权重
+# 权重数字越大，表示优先级越高，排名越靠前。
+# 模板
+---
+name: custom.pinyin.woshixiongshizaitaiwenjianle
+version: "2024-05-24"
+sort: by_weight
+...
+
+小琼峰	xiao qiong feng	1
+蓝灵娥	lan ling e	1
+齐源	qi yuan	1
+江林儿	jiang lin er	1
+酒玖	jiu jiu	1
+酒乌	jiu wu	1
+酒施	jiu shi	1
+有琴玄雅	you qin xuan ya	1
+熊伶俐	xiong ling li	1
+截教	jie jiao	1
+阐教	chan jiao	1
