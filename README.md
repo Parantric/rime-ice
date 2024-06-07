@@ -41,3 +41,29 @@
     #  - xform/$/)/
   因为没有找到一份比较好的词库，干脆自己维护一个。综合了几个不错的词库，精心调教了很多。
   ```
+
+📅 ﹝ 2024年06月07日 ﹞
+
+- 启用在特定的程序中，开启始终使用英文标点符号（一般为开发工具应用程序）
+
+  涉及到的文件：📄 `weasel.custom.yaml`，修改如下：
+
+  ```yaml
+  # 打补丁
+  patch:
+    # 设置样式
+    "style/color_scheme": dark_temple                        # 设置主题配色
+    "style/horizontal": false                         # 候选项横排：true；false
+    "style/vertical_text": false                      # 竖排文本：true；false
+    # 指定特定程序使用英文标点符号（⚠️ 应用程序名称一律使用小写字母）
+    app_options/pycharm64.exe:  # PyCharm.
+      ascii_punct: true
+    app_options/typora.exe:  # Typora.
+      ascii_punct: true
+  ```
+  
+  可以操作的其它设置:
+  
+  - `ascii_mode: true`：默认英文
+  - `ascii_mode: false`：默认中文
+  - `ascii_punct: true`：开启英文标点
